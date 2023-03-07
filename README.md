@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohamed Tarek</h1>
 <h3 align="center">A Backend Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m7mdtarek&label=Profile%20views&color=0e75b6&style=flat" alt="m7mdtarek" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m7mdtarek" alt="m7mdtarek" /></a> </p>
+
+
 
 - 🌱 I’m currently learning **.Net Core Framework**
 
@@ -23,4 +23,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m7mdtarek&show_icons=true&locale=en&layout=compact" alt="m7mdtarek" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m7mdtarek&show_icons=true&locale=en" alt="m7mdtarek" /></p>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m7mdtarek" alt="m7mdtarek" /></a> </p>
